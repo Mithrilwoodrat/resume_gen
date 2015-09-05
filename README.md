@@ -4,7 +4,7 @@
 (安装通过 : `pip install markdown`)
 
 #详细步骤
-1. `python -m "markdown" < $your_resume > filename.html
+1. `python -m "markdown" < $your_resume > filename.html`
 
 2. 使用谷歌浏览器打开生成的 HTML 文件,单击右键选择打印
 
